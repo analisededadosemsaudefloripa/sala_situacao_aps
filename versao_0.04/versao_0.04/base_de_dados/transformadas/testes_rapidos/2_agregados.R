@@ -15,7 +15,6 @@ testes_rapidos$AREA <- as.character(testes_rapidos$AREA)
 #Transformando ano e mês em trimestre
 testes_rapidos$TRIMESTRE <- as.yearqtr(testes_rapidos$DATA, format = "%d-%b-%y")
 testes_rapidos$TRIMESTRE <- as.character(testes_rapidos$TRIMESTRE)
-testes_rapidos <- subset(testes_rapidos, testes_rapidos$TRIMESTRE != "2018 Q3")
 
 #Substituindo QTDE por QUANTIDADE E NM_PROC por PROCEDIMENTO
 colnames(testes_rapidos)[6] <- "QUANTIDADE"

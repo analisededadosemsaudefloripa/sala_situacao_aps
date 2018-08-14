@@ -15,7 +15,6 @@ tratam_compl_odonto$AREA <- as.character(tratam_compl_odonto$AREA)
 #Transformando ano e mês em trimestre
 tratam_compl_odonto$TRIMESTRE <- as.yearqtr(tratam_compl_odonto$DATA, format = "%d-%b-%y")
 tratam_compl_odonto$TRIMESTRE <- as.character(tratam_compl_odonto$TRIMESTRE)
-tratam_compl_odonto <- subset(tratam_compl_odonto, tratam_compl_odonto$TRIMESTRE != "2018 Q3")
 
 ############################################################
 #Equipes

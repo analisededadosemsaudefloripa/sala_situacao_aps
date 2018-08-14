@@ -14,7 +14,7 @@ citopatologico$AREA <- as.character(citopatologico$AREA)
 #Transformando ano e mês em trimestre
 citopatologico$TRIMESTRE <- as.yearqtr(citopatologico$DATA, format = "%d-%b-%y")
 citopatologico$TRIMESTRE <- as.character(citopatologico$TRIMESTRE)
-citopatologico <- subset(citopatologico, citopatologico$TRIMESTRE != "2018 Q3")
+
 
 #A população tirada da base é a população de mulheres entre 25 e 64anos diferentes atendidas por trimestre. Como elas devem fazer
 #o exame a cada 3 anos, 1/3 dela deve fazer em cada um dos trimestres. Assim, dividiu-se a população por 3.

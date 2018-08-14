@@ -19,7 +19,7 @@ odonto_gestantes$AREA <- as.character(odonto_gestantes$AREA)
 #Transformando ano e mês em trimestre
 odonto_gestantes$TRIMESTRE <- as.yearqtr(odonto_gestantes$DATA, format = "%d-%b-%y")
 odonto_gestantes$TRIMESTRE <- as.character(odonto_gestantes$TRIMESTRE)
-odonto_gestantes <- subset(odonto_gestantes, odonto_gestantes$TRIMESTRE != "2018 Q3")
+
 
 ############################################################
 #Equipes

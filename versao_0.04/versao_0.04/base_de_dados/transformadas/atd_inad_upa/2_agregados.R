@@ -15,7 +15,7 @@ atd_inad_upa$AREA <- as.character(atd_inad_upa$AREA)
 #Transformando ano e mês em trimestre
 atd_inad_upa$TRIMESTRE <- as.yearqtr(atd_inad_upa$DATA, format = "%d-%b-%y")
 atd_inad_upa$TRIMESTRE <- as.character(atd_inad_upa$TRIMESTRE)
-atd_inad_upa <- subset(atd_inad_upa, atd_inad_upa$TRIMESTRE != "2018 Q3")
+
 
 ############################################################
 #Equipes

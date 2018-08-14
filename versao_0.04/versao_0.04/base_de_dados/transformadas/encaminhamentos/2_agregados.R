@@ -17,7 +17,7 @@ encam_med$AREA <- as.character(encam_med$AREA)
 #Transformando mês em trimestre
 encam_med$TRIMESTRE <- as.yearqtr(encam_med$DATA, format = "%d-%b-%y")
 encam_med$TRIMESTRE <- as.character(encam_med$TRIMESTRE)
-encam_med <- subset(encam_med, encam_med$TRIMESTRE != "2018 Q3")
+
 
 encam_med <- encam_med[,-c(3,4,10)] #Retirando as colunas de ANO, MÊS, DATA
 

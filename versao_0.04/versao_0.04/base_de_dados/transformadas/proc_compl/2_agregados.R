@@ -15,7 +15,7 @@ proc_compl$AREA <- as.character(proc_compl$AREA)
 #Transformando ano e mês em trimestre
 proc_compl$TRIMESTRE <- as.yearqtr(proc_compl$DATA, format = "%d-%b-%y")
 proc_compl$TRIMESTRE <- as.character(proc_compl$TRIMESTRE)
-proc_compl <- subset(proc_compl, proc_compl$TRIMESTRE != "2018 Q3")
+
 
 proc_compl<-proc_compl[,-c(3,4,15)]
 

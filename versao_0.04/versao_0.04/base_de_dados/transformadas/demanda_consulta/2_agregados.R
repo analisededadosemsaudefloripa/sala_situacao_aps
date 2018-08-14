@@ -17,7 +17,7 @@ demanda_consulta$AREA <- as.character(demanda_consulta$AREA)
 #Transformando ano e mês em trimestre
 demanda_consulta$TRIMESTRE <- as.yearqtr(demanda_consulta$DATA, format = "%d-%b-%y")
 demanda_consulta$TRIMESTRE <- as.character(demanda_consulta$TRIMESTRE)
-demanda_consulta <- subset(demanda_consulta, demanda_consulta$TRIMESTRE != "2018 Q3")
+
 
 ############################################################
 #Equipes

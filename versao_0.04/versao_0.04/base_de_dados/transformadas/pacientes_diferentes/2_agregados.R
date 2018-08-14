@@ -15,7 +15,7 @@ pc$AREA <- as.character(pc$AREA)
 #Transformando mês em trimestre
 pc$TRIMESTRE <- as.yearqtr(pc$DATA, format = "%d-%b-%y")
 pc$TRIMESTRE <- as.character(pc$TRIMESTRE)
-pc <- subset(pc, pc$TRIMESTRE != "2018 Q3")
+
 
 
 pc <- pc[,-c(4,5,8)] #retirando a coluna de ano, mes, data

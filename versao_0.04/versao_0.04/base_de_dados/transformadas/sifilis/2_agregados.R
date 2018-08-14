@@ -14,7 +14,6 @@ sifilis$AREA <- as.character(sifilis$AREA)
 #Transformando ano e mês em trimestre
 sifilis$TRIMESTRE <- as.yearqtr(sifilis$DATA, format = "%d-%b-%y")
 sifilis$TRIMESTRE <- as.character(sifilis$TRIMESTRE)
-sifilis <- subset(sifilis, sifilis$TRIMESTRE != "2018 Q3")
 
 
 ############################################################

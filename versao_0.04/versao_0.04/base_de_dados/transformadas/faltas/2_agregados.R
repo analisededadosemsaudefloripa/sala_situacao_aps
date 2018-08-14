@@ -19,7 +19,6 @@ faltas$AREA <- as.character(faltas$AREA)
 #Transformando ano e mês em trimestre
 faltas$TRIMESTRE <- as.yearqtr(faltas$DATA, format = "%d-%b-%y")
 faltas$TRIMESTRE <- as.character(faltas$TRIMESTRE)
-faltas <- subset(faltas, faltas$TRIMESTRE != "2018 Q3")
 
 ############################################################
 #Equipes

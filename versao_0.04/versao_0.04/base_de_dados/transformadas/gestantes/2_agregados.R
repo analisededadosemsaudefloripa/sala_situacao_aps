@@ -19,7 +19,7 @@ gestantes$AREA <- as.character(gestantes$AREA)
 #Transformando ano e mês em trimestre
 gestantes$TRIMESTRE <- as.yearqtr(gestantes$DATA, format = "%d-%b-%y")
 gestantes$TRIMESTRE <- as.character(gestantes$TRIMESTRE)
-gestantes <- subset(gestantes, gestantes$TRIMESTRE != "2018 Q3")
+
 
 ############################################################
 #Equipes
