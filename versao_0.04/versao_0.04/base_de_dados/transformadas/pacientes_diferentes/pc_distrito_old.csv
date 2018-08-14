@@ -1,0 +1,421 @@
+"DISTRITO","TRIMESTRE","ESPECIALIDADE","VALOR"
+"Centro","2013 Q1","Enfermeiro",10643
+"Continente","2013 Q1","Enfermeiro",5550
+"Norte","2013 Q1","Enfermeiro",11321
+"Sul","2013 Q1","Enfermeiro",10136
+"Centro","2013 Q2","Enfermeiro",11786
+"Continente","2013 Q2","Enfermeiro",6516
+"Norte","2013 Q2","Enfermeiro",11829
+"Sul","2013 Q2","Enfermeiro",11039
+"Centro","2013 Q3","Enfermeiro",13020
+"Continente","2013 Q3","Enfermeiro",7856
+"Norte","2013 Q3","Enfermeiro",12351
+"Sul","2013 Q3","Enfermeiro",11688
+"Centro","2013 Q4","Enfermeiro",10665
+"Continente","2013 Q4","Enfermeiro",7361
+"Norte","2013 Q4","Enfermeiro",8642
+"Sul","2013 Q4","Enfermeiro",8929
+"Centro","2014 Q1","Enfermeiro",13209
+"Continente","2014 Q1","Enfermeiro",7116
+"Norte","2014 Q1","Enfermeiro",10234
+"Sul","2014 Q1","Enfermeiro",10787
+"Centro","2014 Q2","Enfermeiro",13763
+"Continente","2014 Q2","Enfermeiro",8180
+"Norte","2014 Q2","Enfermeiro",11368
+"Sul","2014 Q2","Enfermeiro",11428
+"Centro","2014 Q3","Enfermeiro",14590
+"Continente","2014 Q3","Enfermeiro",7859
+"Norte","2014 Q3","Enfermeiro",12580
+"Sul","2014 Q3","Enfermeiro",12960
+"Centro","2014 Q4","Enfermeiro",12839
+"Continente","2014 Q4","Enfermeiro",7492
+"Norte","2014 Q4","Enfermeiro",12117
+"Sul","2014 Q4","Enfermeiro",11231
+"Centro","2015 Q1","Enfermeiro",12254
+"Continente","2015 Q1","Enfermeiro",7702
+"Norte","2015 Q1","Enfermeiro",11717
+"Sul","2015 Q1","Enfermeiro",9565
+"Centro","2015 Q2","Enfermeiro",11590
+"Continente","2015 Q2","Enfermeiro",7667
+"Norte","2015 Q2","Enfermeiro",12817
+"Sul","2015 Q2","Enfermeiro",10788
+"Centro","2015 Q3","Enfermeiro",14713
+"Continente","2015 Q3","Enfermeiro",10172
+"Norte","2015 Q3","Enfermeiro",16487
+"Sul","2015 Q3","Enfermeiro",12153
+"Centro","2015 Q4","Enfermeiro",12440
+"Continente","2015 Q4","Enfermeiro",9808
+"Norte","2015 Q4","Enfermeiro",14873
+"Sul","2015 Q4","Enfermeiro",10520
+"Centro","2016 Q1","Enfermeiro",12296
+"Continente","2016 Q1","Enfermeiro",9365
+"Norte","2016 Q1","Enfermeiro",13392
+"Sul","2016 Q1","Enfermeiro",9717
+"Centro","2016 Q2","Enfermeiro",15424
+"Continente","2016 Q2","Enfermeiro",12348
+"Norte","2016 Q2","Enfermeiro",17447
+"Sul","2016 Q2","Enfermeiro",13444
+"Centro","2016 Q3","Enfermeiro",14741
+"Continente","2016 Q3","Enfermeiro",11318
+"Norte","2016 Q3","Enfermeiro",16814
+"Sul","2016 Q3","Enfermeiro",12474
+"Centro","2016 Q4","Enfermeiro",13201
+"Continente","2016 Q4","Enfermeiro",10670
+"Norte","2016 Q4","Enfermeiro",15840
+"Sul","2016 Q4","Enfermeiro",11913
+"Centro","2017 Q1","Enfermeiro",8905
+"Continente","2017 Q1","Enfermeiro",6772
+"Norte","2017 Q1","Enfermeiro",10615
+"Sul","2017 Q1","Enfermeiro",7441
+"Centro","2017 Q2","Enfermeiro",14980
+"Continente","2017 Q2","Enfermeiro",13243
+"Norte","2017 Q2","Enfermeiro",17926
+"Sul","2017 Q2","Enfermeiro",12882
+"Centro","2017 Q3","Enfermeiro",16098
+"Continente","2017 Q3","Enfermeiro",12564
+"Norte","2017 Q3","Enfermeiro",18803
+"Sul","2017 Q3","Enfermeiro",12499
+"Centro","2017 Q4","Enfermeiro",15231
+"Continente","2017 Q4","Enfermeiro",11143
+"Norte","2017 Q4","Enfermeiro",17120
+"Sul","2017 Q4","Enfermeiro",11370
+"Centro","2018 Q1","Enfermeiro",15510
+"Continente","2018 Q1","Enfermeiro",12339
+"Norte","2018 Q1","Enfermeiro",17971
+"Sul","2018 Q1","Enfermeiro",10764
+"Centro","2013 Q1","Médico",17361
+"Continente","2013 Q1","Médico",16585
+"Norte","2013 Q1","Médico",24206
+"Sul","2013 Q1","Médico",17869
+"Centro","2013 Q2","Médico",18631
+"Continente","2013 Q2","Médico",15941
+"Norte","2013 Q2","Médico",26451
+"Sul","2013 Q2","Médico",21579
+"Centro","2013 Q3","Médico",18685
+"Continente","2013 Q3","Médico",16983
+"Norte","2013 Q3","Médico",26186
+"Sul","2013 Q3","Médico",22328
+"Centro","2013 Q4","Médico",18194
+"Continente","2013 Q4","Médico",15284
+"Norte","2013 Q4","Médico",23516
+"Sul","2013 Q4","Médico",20678
+"Centro","2014 Q1","Médico",19260
+"Continente","2014 Q1","Médico",16551
+"Norte","2014 Q1","Médico",27367
+"Sul","2014 Q1","Médico",22622
+"Centro","2014 Q2","Médico",19453
+"Continente","2014 Q2","Médico",16077
+"Norte","2014 Q2","Médico",25607
+"Sul","2014 Q2","Médico",23548
+"Centro","2014 Q3","Médico",20116
+"Continente","2014 Q3","Médico",18688
+"Norte","2014 Q3","Médico",29122
+"Sul","2014 Q3","Médico",25882
+"Centro","2014 Q4","Médico",18309
+"Continente","2014 Q4","Médico",17314
+"Norte","2014 Q4","Médico",26161
+"Sul","2014 Q4","Médico",22301
+"Centro","2015 Q1","Médico",18323
+"Continente","2015 Q1","Médico",16570
+"Norte","2015 Q1","Médico",27541
+"Sul","2015 Q1","Médico",21357
+"Centro","2015 Q2","Médico",17399
+"Continente","2015 Q2","Médico",18151
+"Norte","2015 Q2","Médico",25888
+"Sul","2015 Q2","Médico",21376
+"Centro","2015 Q3","Médico",21707
+"Continente","2015 Q3","Médico",21955
+"Norte","2015 Q3","Médico",30662
+"Sul","2015 Q3","Médico",24611
+"Centro","2015 Q4","Médico",18728
+"Continente","2015 Q4","Médico",20375
+"Norte","2015 Q4","Médico",26499
+"Sul","2015 Q4","Médico",21319
+"Centro","2016 Q1","Médico",19739
+"Continente","2016 Q1","Médico",20012
+"Norte","2016 Q1","Médico",29020
+"Sul","2016 Q1","Médico",22704
+"Centro","2016 Q2","Médico",21609
+"Continente","2016 Q2","Médico",22885
+"Norte","2016 Q2","Médico",31999
+"Sul","2016 Q2","Médico",26441
+"Centro","2016 Q3","Médico",21502
+"Continente","2016 Q3","Médico",21236
+"Norte","2016 Q3","Médico",30425
+"Sul","2016 Q3","Médico",23932
+"Centro","2016 Q4","Médico",19805
+"Continente","2016 Q4","Médico",20755
+"Norte","2016 Q4","Médico",28588
+"Sul","2016 Q4","Médico",21134
+"Centro","2017 Q1","Médico",14490
+"Continente","2017 Q1","Médico",14767
+"Norte","2017 Q1","Médico",20669
+"Sul","2017 Q1","Médico",15731
+"Centro","2017 Q2","Médico",20713
+"Continente","2017 Q2","Médico",20380
+"Norte","2017 Q2","Médico",31742
+"Sul","2017 Q2","Médico",22791
+"Centro","2017 Q3","Médico",23282
+"Continente","2017 Q3","Médico",23203
+"Norte","2017 Q3","Médico",33956
+"Sul","2017 Q3","Médico",24134
+"Centro","2017 Q4","Médico",23545
+"Continente","2017 Q4","Médico",23126
+"Norte","2017 Q4","Médico",32435
+"Sul","2017 Q4","Médico",23659
+"Centro","2018 Q1","Médico",24895
+"Continente","2018 Q1","Médico",23664
+"Norte","2018 Q1","Médico",32584
+"Sul","2018 Q1","Médico",23463
+"Centro","2013 Q1","Médico e Enfermeiro",28004
+"Continente","2013 Q1","Médico e Enfermeiro",22135
+"Norte","2013 Q1","Médico e Enfermeiro",35527
+"Sul","2013 Q1","Médico e Enfermeiro",28005
+"Centro","2013 Q2","Médico e Enfermeiro",30417
+"Continente","2013 Q2","Médico e Enfermeiro",22457
+"Norte","2013 Q2","Médico e Enfermeiro",38280
+"Sul","2013 Q2","Médico e Enfermeiro",32618
+"Centro","2013 Q3","Médico e Enfermeiro",31705
+"Continente","2013 Q3","Médico e Enfermeiro",24839
+"Norte","2013 Q3","Médico e Enfermeiro",38537
+"Sul","2013 Q3","Médico e Enfermeiro",34016
+"Centro","2013 Q4","Médico e Enfermeiro",28859
+"Continente","2013 Q4","Médico e Enfermeiro",22645
+"Norte","2013 Q4","Médico e Enfermeiro",32158
+"Sul","2013 Q4","Médico e Enfermeiro",29607
+"Centro","2014 Q1","Médico e Enfermeiro",32469
+"Continente","2014 Q1","Médico e Enfermeiro",23667
+"Norte","2014 Q1","Médico e Enfermeiro",37601
+"Sul","2014 Q1","Médico e Enfermeiro",33409
+"Centro","2014 Q2","Médico e Enfermeiro",33216
+"Continente","2014 Q2","Médico e Enfermeiro",24257
+"Norte","2014 Q2","Médico e Enfermeiro",36975
+"Sul","2014 Q2","Médico e Enfermeiro",34976
+"Centro","2014 Q3","Médico e Enfermeiro",34706
+"Continente","2014 Q3","Médico e Enfermeiro",26547
+"Norte","2014 Q3","Médico e Enfermeiro",41702
+"Sul","2014 Q3","Médico e Enfermeiro",38842
+"Centro","2014 Q4","Médico e Enfermeiro",31148
+"Continente","2014 Q4","Médico e Enfermeiro",24806
+"Norte","2014 Q4","Médico e Enfermeiro",38278
+"Sul","2014 Q4","Médico e Enfermeiro",33532
+"Centro","2015 Q1","Médico e Enfermeiro",30577
+"Continente","2015 Q1","Médico e Enfermeiro",24272
+"Norte","2015 Q1","Médico e Enfermeiro",39258
+"Sul","2015 Q1","Médico e Enfermeiro",30922
+"Centro","2015 Q2","Médico e Enfermeiro",28989
+"Continente","2015 Q2","Médico e Enfermeiro",25818
+"Norte","2015 Q2","Médico e Enfermeiro",38705
+"Sul","2015 Q2","Médico e Enfermeiro",32164
+"Centro","2015 Q3","Médico e Enfermeiro",36420
+"Continente","2015 Q3","Médico e Enfermeiro",32127
+"Norte","2015 Q3","Médico e Enfermeiro",47149
+"Sul","2015 Q3","Médico e Enfermeiro",36764
+"Centro","2015 Q4","Médico e Enfermeiro",31168
+"Continente","2015 Q4","Médico e Enfermeiro",30183
+"Norte","2015 Q4","Médico e Enfermeiro",41372
+"Sul","2015 Q4","Médico e Enfermeiro",31839
+"Centro","2016 Q1","Médico e Enfermeiro",32035
+"Continente","2016 Q1","Médico e Enfermeiro",29377
+"Norte","2016 Q1","Médico e Enfermeiro",42412
+"Sul","2016 Q1","Médico e Enfermeiro",32421
+"Centro","2016 Q2","Médico e Enfermeiro",37033
+"Continente","2016 Q2","Médico e Enfermeiro",35233
+"Norte","2016 Q2","Médico e Enfermeiro",49446
+"Sul","2016 Q2","Médico e Enfermeiro",39885
+"Centro","2016 Q3","Médico e Enfermeiro",36243
+"Continente","2016 Q3","Médico e Enfermeiro",32554
+"Norte","2016 Q3","Médico e Enfermeiro",47239
+"Sul","2016 Q3","Médico e Enfermeiro",36406
+"Centro","2016 Q4","Médico e Enfermeiro",33006
+"Continente","2016 Q4","Médico e Enfermeiro",31425
+"Norte","2016 Q4","Médico e Enfermeiro",44428
+"Sul","2016 Q4","Médico e Enfermeiro",33047
+"Centro","2017 Q1","Médico e Enfermeiro",23395
+"Continente","2017 Q1","Médico e Enfermeiro",21539
+"Norte","2017 Q1","Médico e Enfermeiro",31284
+"Sul","2017 Q1","Médico e Enfermeiro",23172
+"Centro","2017 Q2","Médico e Enfermeiro",35693
+"Continente","2017 Q2","Médico e Enfermeiro",33623
+"Norte","2017 Q2","Médico e Enfermeiro",49668
+"Sul","2017 Q2","Médico e Enfermeiro",35673
+"Centro","2017 Q3","Médico e Enfermeiro",39380
+"Continente","2017 Q3","Médico e Enfermeiro",35767
+"Norte","2017 Q3","Médico e Enfermeiro",52759
+"Sul","2017 Q3","Médico e Enfermeiro",36633
+"Centro","2017 Q4","Médico e Enfermeiro",38776
+"Continente","2017 Q4","Médico e Enfermeiro",34269
+"Norte","2017 Q4","Médico e Enfermeiro",49555
+"Sul","2017 Q4","Médico e Enfermeiro",35029
+"Centro","2018 Q1","Médico e Enfermeiro",40405
+"Continente","2018 Q1","Médico e Enfermeiro",36003
+"Norte","2018 Q1","Médico e Enfermeiro",50555
+"Sul","2018 Q1","Médico e Enfermeiro",34227
+"Centro","2013 Q1","Odontólogo",3604
+"Continente","2013 Q1","Odontólogo",3552
+"Norte","2013 Q1","Odontólogo",4265
+"Sul","2013 Q1","Odontólogo",3620
+"Centro","2013 Q2","Odontólogo",3869
+"Continente","2013 Q2","Odontólogo",3344
+"Norte","2013 Q2","Odontólogo",4618
+"Sul","2013 Q2","Odontólogo",4189
+"Centro","2013 Q3","Odontólogo",4236
+"Continente","2013 Q3","Odontólogo",4115
+"Norte","2013 Q3","Odontólogo",4776
+"Sul","2013 Q3","Odontólogo",4153
+"Centro","2013 Q4","Odontólogo",3529
+"Continente","2013 Q4","Odontólogo",3283
+"Norte","2013 Q4","Odontólogo",3936
+"Sul","2013 Q4","Odontólogo",3137
+"Centro","2014 Q1","Odontólogo",3421
+"Continente","2014 Q1","Odontólogo",3254
+"Norte","2014 Q1","Odontólogo",3762
+"Sul","2014 Q1","Odontólogo",3479
+"Centro","2014 Q2","Odontólogo",3773
+"Continente","2014 Q2","Odontólogo",3580
+"Norte","2014 Q2","Odontólogo",3891
+"Sul","2014 Q2","Odontólogo",3724
+"Centro","2014 Q3","Odontólogo",4220
+"Continente","2014 Q3","Odontólogo",4081
+"Norte","2014 Q3","Odontólogo",5166
+"Sul","2014 Q3","Odontólogo",3873
+"Centro","2014 Q4","Odontólogo",3415
+"Continente","2014 Q4","Odontólogo",3746
+"Norte","2014 Q4","Odontólogo",4373
+"Sul","2014 Q4","Odontólogo",3576
+"Centro","2015 Q1","Odontólogo",3062
+"Continente","2015 Q1","Odontólogo",3158
+"Norte","2015 Q1","Odontólogo",3941
+"Sul","2015 Q1","Odontólogo",3060
+"Centro","2015 Q2","Odontólogo",2816
+"Continente","2015 Q2","Odontólogo",3273
+"Norte","2015 Q2","Odontólogo",3986
+"Sul","2015 Q2","Odontólogo",3445
+"Centro","2015 Q3","Odontólogo",3862
+"Continente","2015 Q3","Odontólogo",4205
+"Norte","2015 Q3","Odontólogo",5211
+"Sul","2015 Q3","Odontólogo",4303
+"Centro","2015 Q4","Odontólogo",3343
+"Continente","2015 Q4","Odontólogo",3607
+"Norte","2015 Q4","Odontólogo",4525
+"Sul","2015 Q4","Odontólogo",3308
+"Centro","2016 Q1","Odontólogo",3313
+"Continente","2016 Q1","Odontólogo",3359
+"Norte","2016 Q1","Odontólogo",3592
+"Sul","2016 Q1","Odontólogo",3132
+"Centro","2016 Q2","Odontólogo",3700
+"Continente","2016 Q2","Odontólogo",4372
+"Norte","2016 Q2","Odontólogo",4936
+"Sul","2016 Q2","Odontólogo",3722
+"Centro","2016 Q3","Odontólogo",4182
+"Continente","2016 Q3","Odontólogo",4219
+"Norte","2016 Q3","Odontólogo",4899
+"Sul","2016 Q3","Odontólogo",4558
+"Centro","2016 Q4","Odontólogo",3733
+"Continente","2016 Q4","Odontólogo",3804
+"Norte","2016 Q4","Odontólogo",4546
+"Sul","2016 Q4","Odontólogo",3666
+"Centro","2017 Q1","Odontólogo",2228
+"Continente","2017 Q1","Odontólogo",2127
+"Norte","2017 Q1","Odontólogo",2951
+"Sul","2017 Q1","Odontólogo",2080
+"Centro","2017 Q2","Odontólogo",3998
+"Continente","2017 Q2","Odontólogo",4640
+"Norte","2017 Q2","Odontólogo",5209
+"Sul","2017 Q2","Odontólogo",3839
+"Centro","2017 Q3","Odontólogo",4399
+"Continente","2017 Q3","Odontólogo",4792
+"Norte","2017 Q3","Odontólogo",5960
+"Sul","2017 Q3","Odontólogo",4659
+"Centro","2017 Q4","Odontólogo",3546
+"Continente","2017 Q4","Odontólogo",4063
+"Norte","2017 Q4","Odontólogo",5417
+"Sul","2017 Q4","Odontólogo",3778
+"Centro","2018 Q1","Odontólogo",3486
+"Continente","2018 Q1","Odontólogo",4012
+"Norte","2018 Q1","Odontólogo",4833
+"Sul","2018 Q1","Odontólogo",3702
+"Centro","2013 Q1","Total",104690
+"Continente","2013 Q1","Total",92991
+"Norte","2013 Q1","Total",134283
+"Sul","2013 Q1","Total",106790
+"Centro","2013 Q2","Total",115477
+"Continente","2013 Q2","Total",98010
+"Norte","2013 Q2","Total",148077
+"Sul","2013 Q2","Total",121565
+"Centro","2013 Q3","Total",119137
+"Continente","2013 Q3","Total",104607
+"Norte","2013 Q3","Total",149655
+"Sul","2013 Q3","Total",126749
+"Centro","2013 Q4","Total",107738
+"Continente","2013 Q4","Total",93281
+"Norte","2013 Q4","Total",130154
+"Sul","2013 Q4","Total",111974
+"Centro","2014 Q1","Total",117086
+"Continente","2014 Q1","Total",99103
+"Norte","2014 Q1","Total",145393
+"Sul","2014 Q1","Total",122613
+"Centro","2014 Q2","Total",121261
+"Continente","2014 Q2","Total",101477
+"Norte","2014 Q2","Total",146298
+"Sul","2014 Q2","Total",128790
+"Centro","2014 Q3","Total",127337
+"Continente","2014 Q3","Total",111622
+"Norte","2014 Q3","Total",164501
+"Sul","2014 Q3","Total",139520
+"Centro","2014 Q4","Total",117051
+"Continente","2014 Q4","Total",104383
+"Norte","2014 Q4","Total",153534
+"Sul","2014 Q4","Total",125600
+"Centro","2015 Q1","Total",113146
+"Continente","2015 Q1","Total",99114
+"Norte","2015 Q1","Total",152897
+"Sul","2015 Q1","Total",116880
+"Centro","2015 Q2","Total",107969
+"Continente","2015 Q2","Total",102169
+"Norte","2015 Q2","Total",150767
+"Sul","2015 Q2","Total",120874
+"Centro","2015 Q3","Total",131499
+"Continente","2015 Q3","Total",122999
+"Norte","2015 Q3","Total",180018
+"Sul","2015 Q3","Total",137808
+"Centro","2015 Q4","Total",114145
+"Continente","2015 Q4","Total",112836
+"Norte","2015 Q4","Total",158969
+"Sul","2015 Q4","Total",119111
+"Centro","2016 Q1","Total",112233
+"Continente","2016 Q1","Total",109527
+"Norte","2016 Q1","Total",156050
+"Sul","2016 Q1","Total",118498
+"Centro","2016 Q2","Total",131440
+"Continente","2016 Q2","Total",128309
+"Norte","2016 Q2","Total",182090
+"Sul","2016 Q2","Total",141387
+"Centro","2016 Q3","Total",128544
+"Continente","2016 Q3","Total",121311
+"Norte","2016 Q3","Total",177642
+"Sul","2016 Q3","Total",133238
+"Centro","2016 Q4","Total",117705
+"Continente","2016 Q4","Total",114407
+"Norte","2016 Q4","Total",164867
+"Sul","2016 Q4","Total",120223
+"Centro","2017 Q1","Total",84012
+"Continente","2017 Q1","Total",79454
+"Norte","2017 Q1","Total",118217
+"Sul","2017 Q1","Total",85383
+"Centro","2017 Q2","Total",127471
+"Continente","2017 Q2","Total",120756
+"Norte","2017 Q2","Total",183349
+"Sul","2017 Q2","Total",131105
+"Centro","2017 Q3","Total",136075
+"Continente","2017 Q3","Total",127182
+"Norte","2017 Q3","Total",192322
+"Sul","2017 Q3","Total",134365
+"Centro","2017 Q4","Total",130804
+"Continente","2017 Q4","Total",120930
+"Norte","2017 Q4","Total",180185
+"Sul","2017 Q4","Total",126811
+"Centro","2018 Q1","Total",139725
+"Continente","2018 Q1","Total",128010
+"Norte","2018 Q1","Total",183788
+"Sul","2018 Q1","Total",127815

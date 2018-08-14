@@ -1,0 +1,42 @@
+﻿
+#m h  dom mon dow   command
+
+###############################################################################################################################
+##Sala de Situação da APS
+###############################################################################################################################
+
+###############################################################################################################################
+###Extraindo Bases
+###############################################################################################################################
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_atd_inad_upa.sh
+
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_citopatologico.sh
+
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_citopatologico_pop.sh
+
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_demanda_consulta.sh
+
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_encs_med.sh
+
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_faltas.sh
+
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_gestantes.sh
+
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_odonto.sh
+
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_pacientes_diferentes.sh
+
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_proc_compl.sh
+
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_sifilis.sh
+
+30 00 1 * * /home/plan/ShinyApps/aps/versao_0.04/versao_0.04/base_de_dados/extraidas/3_connect_testes_rapidos.sh
+###############################################################################################################################
+###Reiniciando Shiny
+###############################################################################################################################
+#Restart shiny
+30 00 2 * * touch /home/plan/ShinyApp/aps/restart.txt
+
+###############################################################################################################################
+###Enviando Email de Confirmação
+###############################################################################################################################

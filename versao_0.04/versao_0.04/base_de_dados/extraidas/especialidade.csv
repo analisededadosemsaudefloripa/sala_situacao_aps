@@ -1,0 +1,177 @@
+﻿ESPECIALIDADE,NM_ESPECIALIDADE
+1,Pediatria
+2,Enfermagem
+3,Técnico de Enfermagem
+4,Auxiliar de Odontologia
+5,Clínico Geral
+6,Odontologia
+7,Nutricionista
+8,Acupuntura
+9,Alergologia
+10,Cardiologia
+11,Cirurgia Geral
+12,Cirurgia Plastica
+13,Angiologia/Cir.Vasc
+14,Cirurgia Toracica
+15,Dermatologia
+16,Endocrinologia
+17,Fisiatria
+18,Ginecologia
+19,Gineco/Obstetra
+20,Gastroenterologia
+21,Hematologia
+22,Infectologia
+23,Nefrologia
+24,Neurologia
+25,Pediat/ Neuro
+26,Oftalmologia
+27,Oncologia/Clinica
+28,Pediatria/Ortopedia
+29,Otorrinolaringologia
+30,Pneumologia
+31,Proctologia
+32,Gineco/Doenca Benig.Vulva
+33,Reumatologia
+34,Ortopedia/Traumatologia
+35,Urologia
+36,Pediatria/Hematologia
+37,Geriatria
+38,Pediatria Genetica
+39,Clinica da Dor
+40,Obstetricia/Gravidez Alto Risc
+41,Gineco/Colposcopia
+42,Gineco/Mastologia
+43,Planejamento Familiar
+44,Pediat/ Cardiologia
+45,Psiquiatria
+46,Neurocirurgia
+47,Pediatria/Urologia
+48,Tisiologia
+49,Pediatria/Reumatologia
+50,Pediat/ Pneum
+51,Pediatria/Alergologia
+52,Adolescencia
+53,Pediat/ Dermatologia
+54,Pediatria/Nefrologia
+55,Pediatria/Puericultura
+56,Obstetricia/Adolescente
+57,Odonto/Cir.Buco Maxilo
+58,Odonto/Endodontia
+59,Odonto/Clinica Cirurgica
+60,Odonto/Perio
+61,Odonto/Pediatria
+62,Dermato/Hanseniase
+63,Pediatria/Cirurgia Plastica
+64,Pediat/ Endoc
+65,Pediatria/Otorrino
+66,Pediatria/Oftalmologia
+67,Gineco/Endometriose/Dor Pelv.
+68,Pediatria/ARLELP
+69,Homeopatia
+70,Oftalmo/Estrabismo
+71,Medicina Interna
+72,Gineco/Patologia Cervical
+73,Gineco/Cirurgia
+74,Gineco/Climaterio
+75,Gineco/Esterilidade
+76,Pediat/ Gastroenterologia
+77,Psicologia
+78,Gineco/Endocrino
+79,Nutrologia
+80,Patologia Cervical
+81,Geneticista
+82,Fonoaudiologia
+83,Odont s/ACD
+84,Farmácia
+85,Alergia e Imunologia
+86,Anatomopatologia (Patologia)
+87,Anestesiologia
+88,Assistente Social
+89,Biólogo
+90,Bioquímico
+91,Broncoesogafagologia
+92,Cirurgia Cabeça e Pescoço
+93,Pediat/ Cirurgia
+94,Cirurgia Vascular
+95,Cirurgia Cardíaca
+96,Cirurgião Oncológico
+97,Citopatologia
+98,Endodontia
+99,Endoscopia Digestiva
+100,Fisioterapia
+101,Hansenologia
+102,Hemoterapia
+103,Mastologia
+104,Odont Prótese BucoMaxiloFacial
+105,Odonto/Radiológica
+106,Oncologia Pediátrica
+107,Oncologista Clínico
+108,Ortodontia
+109,Patologia Clínica
+110,Pedagoga - Educadora em Saúde
+111,Periodontia
+112,Radiologia
+113,Radioterapia
+114,Terapeuta Ocupacional
+115,Pedagogo
+116,Peq. Cirurgias
+117,Perícia Médica
+118,Téc Higiene Dental
+119,Plantonista
+120,Auxiliar de Enfermagem
+121,Ortopedia
+122,Técnico em Laboratório
+123,Eletrocardiograma Tec.Enf.
+124,Pediat/ Nutri
+125,Cir. Hepática
+126,Avaliação Fisio
+127,Exame Audiológico
+128,Acupuntura Geral
+129,Administrativo
+130,Pediat/ Homeopatia
+131,Anticoagulação
+132,Matriciamento NASF
+133,Ultrassonografia
+134,Colposcopia
+136,Hepatologia
+137,Cir. Érnia e Vesícula
+138,Acolhimento
+139,Técnico em Radiologia
+140,Avaliador Físico
+141,Cirurgia Bariátrica/ Obesidade
+142,Serv. Especiais Téc Enfermagem
+143,Estomatologia
+144,Odonto Espec/CEO
+145,Odonto/Prótese Dentária
+146,Cirurgia Pré-operatório
+147,Cirurgia Pós-operatório
+148,Oftalmo/Pediatria
+149,Eletroencefalografia Tec. Enf.
+150,Emergência Hospitalar
+151,Atenção Primária à Saúde
+152,Médico Família
+153,Avaliaçao Endodontia
+154,Oftalmo/Geral
+155,Avaliação Odonto
+156,Agente Comunitário
+157,Oficineira
+158,PPD - Intradermoreação
+159,Gineco/Urologia (Urolog/Ginec)
+160,Espirometria Tec.Enf.
+161,Avaliação Fonoaudiologia
+162,Odonto Avaliaçao
+163,Téc Saúde Mental
+164,Téc. Prótese Dentária
+165,Clínico Geral PMM
+166,Cadiologia/Angioplastia
+167,Odonto/Estomatologia Bucal
+168,Educador Social
+169,Assit. Social CTA
+170,Teledermatologia Téc Enf
+171,Infecto Residência
+172,Cardio Residência
+173,Ergometria Residência
+174,Reabilitação Cardíaca
+175,Reabilitação Pulmonar
+176,Cardiologia/Arritmias (ICSC)
+10010,Dispensação
